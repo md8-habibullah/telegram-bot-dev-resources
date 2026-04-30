@@ -186,6 +186,7 @@ Want to add a new library or improve this list?
 - [Telegram Bot Code Samples](https://core.telegram.org/bots/samples)
 - [Awesome Telegram Bots (GitHub)](https://github.com/MoonWalker440/TeleBotList)
 - [Telegram Bots Channel](https://t.me/bots)
+- [Cyber Collector](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ---
 
