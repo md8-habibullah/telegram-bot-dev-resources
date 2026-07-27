@@ -145,6 +145,12 @@ Find the right tool for your next Telegram bot project!
 | tgbot | https://github.com/egorpugin/tgbot | Telegram Bot API with generated API types and methods. |
 | tgbot-cpp | https://github.com/reo7sp/tgbot-cpp | Telegram Bot API library. |
 
+## Production-ready Python Telegram examples
+
+| Name | Repository | Description |
+|------|------------|-------------|
+| [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) | https://github.com/Avazbek22/VideoDownloaderBot | Production-oriented Telegram downloader with Docker, queueing, size validation, automatic deployment, nightly yt-dlp updates, and rollback. |
+| [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) | https://github.com/Avazbek22/LinkDownloaderBotForGroups | Production-oriented Telegram group automation with caching, download deduplication, persistent settings, Docker deployment, automatic updates, and rollback. |
 ---
 
 ## Ruby
